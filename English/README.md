@@ -1,20 +1,25 @@
-# divulgacio_nuclear
+# Online Nuclear Outreach Activities
 This online outreach activity is based on work by David Pascual Solís (dpascuso), under the supervision of Dr Arnau Rios Huguet (arnaurios). The activity content is used with permission from the [Binding Blocks](https://www.york.ac.uk/physics/public-and-schools/secondary/binding-blocks/) initiative at the University of York. 
 
 To get the necessary context to develop the activity, you can read the file "Instructions.pdf". Start by watching the following video:
 
-https://youtu.be/W6IBa97V3nE
+https://youtu.be/Qsu7IrGiOIk
 
 You will also be asked to answer the questions in the following quizz:
 
 [TO BE COMPLETED]
 https://forms.office.com/r/rDDD2RRTik
 
-Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu. El Binder executa remotament els programes, no implica recursos de la teva màquina ni requereix que tinguis cap entorn de Python preparat, això sí la primera vegada que l'executis una instancia pot trigar una mica en carregar.
+The activities in the Jupyter Notebooks above (files ending with .ipynb) can be run locally (if you have Jupyter installed in your system) or remotely through the Binder links below. Binder may take some time to initialise, but it runs the codes remotely , does not consume local computer resources and does not require any previous Python knowledge.
 
-Enllac al Binder de l'Activitat 1 del Model de Gota Líquida, Determina els parametres:
+When you access every notebook, you should click the little Fast Forward button at the top to load all the content. If needed, you can proceed downwards with the contebt by clicking "Shift+ENTER" on your computer.  
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?urlpath=%2Fnotebooks%2FMGL_Find_Parameters.ipynb)
+
+### Activity 1: Liquid Drop Model fits
+In this online activity, you are asked to determine the parameters of a fit to the liquid drop model based on some nuclear data. 
+
+[LINKS NEED UPDATING]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?urlpath=%2Fnotebooks%2FMGL_Find_Parameters.ipynb)
 
 Enllac al Binder de l'Activitat 2 de Model de Gota Líquida, Prediccions del model:
 
