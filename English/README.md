@@ -1,12 +1,13 @@
 # divulgacio_nuclear
-Activitat de divulgació per l'ICCUB sota l'assignatura de Pràctiques d'Empresa a la UB sota la tutela del Dr. Arnau Rios Huguet.
+This online outreach activity is based on work by David Pascual Solís (dpascuso), under the supervision of Dr Arnau Rios Huguet (arnaurios). The activity content is used with permission from the Binding Blocks (https://www.york.ac.uk/physics/public-and-schools/secondary/binding-blocks/) initiative at the University of York. 
 
-Pel context teòric necessari per desenvolupar les activitats podeu consultar l'arxiu adjunt a les activitats anomenat "Instruccions_Divulgacio_Nuclear.pdf" i/ó el següent video:
+To get the necessary context to develop the activity, you can read the file "Instructions.pdf". Start by watching the following video:
 
 https://youtu.be/W6IBa97V3nE
 
-Al llarg de les activitats es sol·licitarà respondre algunes qüestions en el següent formulari:
+You will also be asked to answer the questions in the following quizz:
 
+[TO BE COMPLETED]
 https://forms.office.com/r/rDDD2RRTik
 
 Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu. El Binder executa remotament els programes, no implica recursos de la teva màquina ni requereix que tinguis cap entorn de Python preparat, això sí la primera vegada que l'executis una instancia pot trigar una mica en carregar.
