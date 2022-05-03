@@ -1,5 +1,5 @@
 # divulgacio_nuclear
-This online outreach activity is based on work by David Pascual Solís (dpascuso), under the supervision of Dr Arnau Rios Huguet (arnaurios). The activity content is used with permission from the Binding Blocks (https://www.york.ac.uk/physics/public-and-schools/secondary/binding-blocks/) initiative at the University of York. 
+This online outreach activity is based on work by David Pascual Solís (dpascuso), under the supervision of Dr Arnau Rios Huguet (arnaurios). The activity content is used with permission from the [Binding Blocks](https://www.york.ac.uk/physics/public-and-schools/secondary/binding-blocks/) initiative at the University of York. 
 
 To get the necessary context to develop the activity, you can read the file "Instructions.pdf". Start by watching the following video:
 
