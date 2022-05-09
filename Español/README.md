@@ -1,33 +1,33 @@
-# divulgacio_nuclear
-Actividad de divulgación per l'ICCUB sota l'assignatura de Pràctiques d'Empresa a la UB sota la tutela del Dr. Arnau Rios Huguet.
+# divulgacion_nuclear
+Actividad de divulgación para el ICCUB de la asignatura de Prácticas de Empresa en la UB bajo la tutela del Dr. Arnau Rios Huguet.
 
-Pel context teòric necessari per desenvolupar les activitats podeu consultar l'arxiu adjunt a les activitats anomenat "Instruccions_Divulgacio_Nuclear.pdf" i/ó el següent video:
+Para el contexto teóricc necesario para desarrollar las actividades puede consultar el archivo adjunto a las actividades llamado "Instruccions_Divulgacio_Nuclear.pdf" y/o el siguiente vídeo:
 
 https://youtu.be/W6IBa97V3nE
 
-Al llarg de les activitats es sol·licitarà respondre algunes qüestions en el següent formulari:
+A lo largo de las actividades se le solicitará responder algunas preguntas en el siguiente formulario:
 
 https://forms.office.com/r/rDDD2RRTik
 
-Per accedir a les activitats desenvolupades accediu als enllaços de Binder següents i seguiu les indicacions al final d'aquest arxiu. El Binder executa remotament els programes, no implica recursos de la teva màquina ni requereix que tinguis cap entorn de Python preparat, això sí la primera vegada que l'executis una instancia pot trigar una mica en carregar.
+Para acceder a las actividades desarrolladas, acceda a los siguientes enlaces de Binder y siga las indicaciones al final de este archivo. Binder ejecuta remotamente los programas, no usa recursos de tu ordenador ni requiere que tengas ningún entorno de Python preparado. Eso sí, la primera vez que lo ejecutes puede tardar un poco en cargar.
 
-Enllac al Binder de l'Activitat 1 del Model de Gota Líquida, Determina els parametres:
+Enlace al Binder de la Actividad 1. Modelo de Gota Líquida, Determina los Parámetros:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?urlpath=%2Fnotebooks%2FMGL_Find_Parameters.ipynb)
 
-Enllac al Binder de l'Activitat 2 de Model de Gota Líquida, Prediccions del model:
+Enlace al Binder de la Actividad 2. Modelo de Gota Líquida, Predicciones del Modelo:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?urlpath=%2Fnotebooks%2FMGL_Prediction.ipynb)
 
-Enllaç al Binder de l'Activitat 3 Massa Mínima d'una Estrella de Neutrons:
+Enlace al Binder de la Actividad 3. Masa Mínima de una Estrella de Neutrones:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?urlpath=%2Fnotebooks%2FNeutron_Star_Minimum_Mass.ipynb)
 
-Enllaç al Binder de l'Activitat 4 Massa Màxima d'una Estrella de Neutrons:
+Enlace al Binder de la Actividad 4. Masa Máxima de una Estrella de Neutrones:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpascuso/divulgacio_nuclear/HEAD?urlpath=%2Fnotebooks%2FNeutron_Star_Maximum_Mass.ipynb)
 
-Un cop carregat el Binder aconsello executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha sigut pensada.
+Una vez cargado el Binder, aconsejo ejecutar en la pestaña "Kernel" la opción "Restart & Run all", tal como se muestra en la imagen siguiente, para desarrollar la actividad de la forma en la que ha sido pensada.
 
 ![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
 
