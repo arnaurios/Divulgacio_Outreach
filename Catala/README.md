@@ -9,19 +9,19 @@ https://forms.office.com/r/rDDD2RRTik
 
 Per accedir a les activitats desenvolupades, podeu clicar els enllaços de Binder següents i seguir les indicacions al final d'aquest arxiu. El Binder executa remotament els programes, no implica recursos de la teva màquina ni requereix que tinguis cap entorn de Python preparat. Això sí, la primera vegada que executis una instància pot trigar una mica en carregar!
 
-Enllac al Binder de l'Activitat 1 del Model de Gota Líquida: Determina els paràmetres:
+Enllaç al Binder de l'Activitat 1 - Model de Gota Líquida Troba els Paràmetres:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/MGL1_Trobar_Parametres.ipynb)
 
-Enllac al Binder de l'Activitat 2 de Model de Gota Líquida, Prediccions del model:
+Enllaç al Binder de l'Activitat 2 - Model de Gota Líquida Prediccions del Model:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/MGL2_Prediccio.ipynb)
 
-Enllaç al Binder de l'Activitat 3 Massa Mínima d'una Estrella de Neutrons:
+Enllaç al Binder de l'Activitat 3 - Massa Mínima d'una Estrella de Neutrons:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/Neutron_Star_Minimum_Mass.ipynb)
 
-Enllaç al Binder de l'Activitat 4 Massa Màxima d'una Estrella de Neutrons:
+Enllaç al Binder de l'Activitat 4 - Massa Màxima d'una Estrella de Neutrons:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/Neutron_Star_Maximum_Mass.ipynb)
 
@@ -29,4 +29,3 @@ Un cop carregat el Binder, aconsellem executar en la pestanya "Kernel" un "Resta
 ue ha sigut pensada.
 
 ![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
-
