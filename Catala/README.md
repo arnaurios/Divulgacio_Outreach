@@ -11,19 +11,19 @@ Per accedir a les activitats desenvolupades, podeu clicar els enllaços de Binde
 
 Enllac al Binder de l'Activitat 1 del Model de Gota Líquida: Determina els paràmetres:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?urlpath=%2Fnotebooks%2FMGL1_Trobar_Parametres.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/MGL1_Trobar_Parametres.ipynb)
 
 Enllac al Binder de l'Activitat 2 de Model de Gota Líquida, Prediccions del model:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?urlpath=%2Fnotebooks%2FMGL2_Prediccio.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/MGL2_Prediccio.ipynb)
 
 Enllaç al Binder de l'Activitat 3 Massa Mínima d'una Estrella de Neutrons:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?urlpath=%2Fnotebooks%2FNeutron_Star_Minimum_Mass.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/Neutron_Star_Minimum_Mass.ipynb)
 
 Enllaç al Binder de l'Activitat 4 Massa Màxima d'una Estrella de Neutrons:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?urlpath=%2Fnotebooks%2FNeutron_Star_Maximum_Mass.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/Neutron_Star_Maximum_Mass.ipynb)
 
 Un cop carregat el Binder, aconsellem executar en la pestanya "Kernel" un "Restart & Run all", tal com és mostra a la imatge següent, per desenvolupar l'activitat de la forma q
 ue ha sigut pensada.
