@@ -20,7 +20,7 @@ Enllaç al Binder de l'Activitat 4 - Massa Màxima d'una Estrella de Neutrons:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arnaurios/Divulgacio_Outreach/HEAD?filepath=/Catala/MGL4_Estrella_Neutrons_Massa_Maxima.ipynb)
 
 Un cop carregat el Binder, aconsellem executar en la pestanya "Kernel" un "Restart & Run all", tal com es mostra a la imatge següent, per desenvolupar l'activitat de la forma que ha estat concebuda.
-![Indicacions](https://user-images.githubusercontent.com/86967725/126076120-5efa1bd7-9872-4394-92b3-aae5333687bf.png)
+![Indicacions](./restart_run_all.png)
 
 En acabar les activitats, us demanarem que respongueu algunes qüestions en el següent formulari:
 
