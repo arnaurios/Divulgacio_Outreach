@@ -6,3 +6,4 @@ dependencies:
   - scipy
   - tqdm
   - python=3
+  - pandas
